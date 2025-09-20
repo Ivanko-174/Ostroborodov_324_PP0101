@@ -1,0 +1,16 @@
+﻿  Partitions2.cpp
+C:\Partitions\Partitions\Partitions2.cpp(36,1): warning C4005: SHFMT_ERROR: изменение макроопределения
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\shlobj_core.h(2465,1):
+  см. предыдущее определение "SHFMT_ERROR"
+  
+C:\Partitions\Partitions\Partitions2.cpp(37,1): warning C4005: SHFMT_CANCEL: изменение макроопределения
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\shlobj_core.h(2466,1):
+  см. предыдущее определение "SHFMT_CANCEL"
+  
+C:\Partitions\Partitions\Partitions2.cpp(38,1): warning C4005: SHFMT_NOFORMAT: изменение макроопределения
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\shlobj_core.h(2467,1):
+  см. предыдущее определение "SHFMT_NOFORMAT"
+  
+C:\Partitions\Partitions\Partitions2.cpp(796,51): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Partitions\Partitions\Partitions2.cpp(804,56): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+  Partitions.vcxproj -> C:\Partitions\x64\Debug\Partitions.exe

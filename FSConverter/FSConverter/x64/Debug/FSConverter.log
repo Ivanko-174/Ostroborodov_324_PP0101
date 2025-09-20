@@ -1,0 +1,5 @@
+﻿  FSConverter.cpp
+C:\FSConverter\FSConverter\FSConverter.cpp(339,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\FSConverter\FSConverter\FSConverter.cpp(979,29): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+C:\FSConverter\FSConverter\FSConverter.cpp(989,50): warning C4244: аргумент: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  FSConverter.vcxproj -> C:\FSConverter\x64\Debug\FSConverter.exe
